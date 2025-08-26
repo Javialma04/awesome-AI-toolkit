@@ -13,6 +13,7 @@ Whether you're a beginner starting your AI journey or an advanced engineer deplo
 ## Table of Contents
 
 - [Why This Toolkit?](#why-this-toolkit)
+- [🆕 2025 Trending Tools](#-2025-trending-tools)
 - [AI Domains and Tools](#ai-domains-and-tools)
   - [Machine Learning Frameworks](#machine-learning-frameworks)
   - [Data Processing & Management](#data-processing--management)
@@ -30,6 +31,12 @@ Whether you're a beginner starting your AI journey or an advanced engineer deplo
   - [Generative AI](#generative-ai)
   - [Deep Learning](#deep-learning)
   - [Advanced LLM Architectures](#advanced-llm-architectures)
+  - [🆕 AI Development Assistants](#-ai-development-assistants)
+  - [🆕 Multimodal AI](#-multimodal-ai)
+  - [🆕 Edge AI & Mobile](#-edge-ai--mobile)
+  - [🆕 Audio & Speech Processing](#-audio--speech-processing)
+  - [🆕 Deployment & Containerization](#-deployment--containerization)
+  - [🆕 DevOps & Infrastructure](#-devops--infrastructure)
 - [Datasets](#datasets)
 - [Courses](#courses)
 - [Papers](#papers)
@@ -43,6 +50,27 @@ Whether you're a beginner starting your AI journey or an advanced engineer deplo
 - **Beyond Tools**: Includes top datasets for exploration, free courses, and key papers.
 - **Up-to-Date**: Trending resources as of August 2025, with GitHub stars for popularity insights.
 - **Community-Driven**: Add new entries via PRs to make it more comprehensive and viral!
+
+## 🆕 2025 Trending Tools
+
+The latest trending open-source AI tools that are shaping 2025, focusing on smaller, smarter models and improved collaboration:
+
+### 🔥 Hot New Releases
+| Tool          | Description                                                                 | URL                                               | Stars | Trend |
+|---------------|-----------------------------------------------------------------------------|---------------------------------------------------|-------|-------|
+| Claude Code   | Command-line AI coding assistant from Anthropic                            | https://docs.anthropic.com/en/docs/claude-code   | New   | 🚀    |
+| Aider         | AI pair programming in your terminal                                       | https://github.com/paul-gauthier/aider           | 15k   | 📈    |
+| Cursor        | AI-powered code editor with advanced completion                            | https://cursor.sh/                               | -     | 🔥    |
+| Windsurf      | Next-gen AI development environment                                        | https://github.com/codeium/windsurf              | 8k    | 📈    |
+| Zed           | High-performance multiplayer code editor with AI                           | https://github.com/zed-industries/zed            | 45k   | 🚀    |
+
+### 🎯 Most Starred in 2025
+| Tool          | Description                                                                 | URL                                               | Stars |
+|---------------|-----------------------------------------------------------------------------|---------------------------------------------------|-------|
+| LLaMA 4       | Latest open-source large language model from Meta                          | https://github.com/facebookresearch/llama        | 180k  |
+| Gemma 3       | Google's advanced lightweight language model                               | https://github.com/google/gemma                  | 25k   |
+| Mixtral-8x22B | Sparse mixture of experts model                                            | https://github.com/mistralai/mistral-src         | 40k   |
+
 
 ## AI Domains and Tools
 
@@ -292,6 +320,123 @@ Frameworks for optimizing and architecting large language models.
 | vLLM         | High-throughput LLM inference engine                                       | https://github.com/vllm-project/vllm             | 25k   |
 | Flash Attention | Fast and memory-efficient attention mechanism                              | https://github.com/Dao-AILab/flash-attention     | 12k   |
 | exllamav2    | Fast inference library for LLMs on consumer GPUs                           | https://github.com/turboderp/exllamav2           | 6k    |
+
+## 🆕 AI Development Assistants
+Tools that help developers write, debug, and optimize code using AI.
+
+#### Beginner
+| Tool          | Description                                                                 | URL                                               | Stars |
+|---------------|-----------------------------------------------------------------------------|---------------------------------------------------|-------|
+| GitHub Copilot | AI pair programmer from GitHub (free for students/open source)            | https://github.com/features/copilot              | -     |
+| Cody          | AI coding assistant from Sourcegraph                                      | https://github.com/sourcegraph/cody              | 2k    |
+| Tabnine       | AI code completion tool                                                    | https://github.com/codota/TabNine                | 2k    |
+
+#### Advanced
+| Tool          | Description                                                                 | URL                                               | Stars |
+|---------------|-----------------------------------------------------------------------------|---------------------------------------------------|-------|
+| Aider         | AI pair programming in your terminal                                      | https://github.com/paul-gauthier/aider           | 20k   |
+| Continue      | Open-source autopilot for VS Code and JetBrains                          | https://github.com/continuedev/continue          | 18k   |
+| CodeT5        | Identifier-aware unified pre-trained encoder-decoder models               | https://github.com/salesforce/CodeT5             | 2k    |
+| WizardCoder   | Code generation model                                                      | https://github.com/nlpxucan/WizardLM             | 10k   |
+| StarCoder     | Code generation model from BigCode                                         | https://github.com/bigcode-project/starcoder     | 8k    |
+
+## 🆕 Multimodal AI
+Tools for processing multiple types of data (text, image, audio, video).
+
+#### Beginner
+| Tool          | Description                                                                 | URL                                               | Stars |
+|---------------|-----------------------------------------------------------------------------|---------------------------------------------------|-------|
+| CLIP          | Connecting text and images from OpenAI                                    | https://github.com/openai/CLIP                   | 25k   |
+| BLIP          | Bootstrapping language-image pre-training                                 | https://github.com/salesforce/BLIP               | 5k    |
+| ImageBind     | One embedding space to bind them all                                      | https://github.com/facebookresearch/ImageBind    | 8k    |
+
+#### Advanced
+| Tool          | Description                                                                 | URL                                               | Stars |
+|---------------|-----------------------------------------------------------------------------|---------------------------------------------------|-------|
+| LLaVA         | Large language and vision assistant                                        | https://github.com/haotian-liu/LLaVA             | 20k   |
+| MiniGPT-4     | Enhancing vision-language understanding                                   | https://github.com/Vision-CAIR/MiniGPT-4         | 25k   |
+| Video-ChatGPT | Video conversation capabilities                                            | https://github.com/mbzuai-oryx/Video-ChatGPT     | 4k    |
+| GPT4Vision    | OpenAI's vision capabilities (API integration tools)                      | https://github.com/microsoft/autogen             | 30k   |
+| Flamingo      | Few-shot learning for vision and language                                 | https://github.com/mlfoundations/open_flamingo   | 4k    |
+
+## 🆕 Edge AI & Mobile
+Tools for deploying AI on edge devices and mobile platforms.
+
+#### Beginner
+| Tool          | Description                                                                 | URL                                               | Stars |
+|---------------|-----------------------------------------------------------------------------|---------------------------------------------------|-------|
+| TensorFlow Lite | Lightweight solution for mobile and embedded devices                    | https://github.com/tensorflow/tensorflow         | 183k  |
+| ONNX Runtime  | Cross-platform machine learning model accelerator                         | https://github.com/microsoft/onnxruntime         | 14k   |
+| Core ML Tools | Convert models to Core ML format for Apple devices                        | https://github.com/apple/coremltools            | 4k    |
+
+#### Advanced
+| Tool          | Description                                                                 | URL                                               | Stars |
+|---------------|-----------------------------------------------------------------------------|---------------------------------------------------|-------|
+| OpenVINO      | Intel's toolkit for optimizing and deploying AI inference                 | https://github.com/openvinotoolkit/openvino     | 7k    |
+| TensorRT      | NVIDIA's platform for high-performance deep learning inference            | https://github.com/NVIDIA/TensorRT              | 10k   |
+| Neural Compressor | Intel's neural network compression framework                           | https://github.com/intel/neural-compressor      | 2k    |
+| MediaPipe     | Framework for building multimodal applied ML pipelines                    | https://github.com/google/mediapipe             | 27k   |
+| ncnn          | High-performance neural network inference on mobile                       | https://github.com/Tencent/ncnn                 | 20k   |
+
+## 🆕 Audio & Speech Processing
+Tools for audio processing, speech recognition, and generation.
+
+#### Beginner
+| Tool          | Description                                                                 | URL                                               | Stars |
+|---------------|-----------------------------------------------------------------------------|---------------------------------------------------|-------|
+| librosa       | Audio and music analysis in Python                                        | https://github.com/librosa/librosa              | 7k    |
+| SpeechRecognition | Simple speech recognition library                                    | https://github.com/Uberi/speech_recognition     | 8k    |
+| pydub         | Audio manipulation with simple interface                                  | https://github.com/jiaaro/pydub                 | 9k    |
+
+#### Advanced
+| Tool          | Description                                                                 | URL                                               | Stars |
+|---------------|-----------------------------------------------------------------------------|---------------------------------------------------|-------|
+| Whisper       | Robust speech recognition via large-scale weak supervision                | https://github.com/openai/whisper               | 69k   |
+| Bark          | Text-prompted generative audio model                                      | https://github.com/suno-ai/bark                 | 35k   |
+| Coqui TTS     | Deep learning toolkit for text-to-speech                                 | https://github.com/coqui-ai/TTS                 | 34k   |
+| ESPnet        | End-to-end speech processing toolkit                                      | https://github.com/espnet/espnet                | 8k    |
+| fairseq       | Facebook AI sequence-to-sequence toolkit                                  | https://github.com/facebookresearch/fairseq     | 30k   |
+| Silero Models | Pre-trained speech-to-text, text-to-speech, and voice activity detection | https://github.com/snakers4/silero-models       | 5k    |
+
+## 🆕 Deployment & Containerization
+Tools for deploying AI models in production environments.
+
+#### Beginner
+| Tool          | Description                                                                 | URL                                               | Stars |
+|---------------|-----------------------------------------------------------------------------|---------------------------------------------------|-------|
+| Docker        | Containerization platform for consistent deployments                      | https://github.com/docker/docker-ce             | 7k    |
+| Streamlit     | Turn data scripts into shareable web apps                                 | https://github.com/streamlit/streamlit          | 35k   |
+| Gradio        | Build and share machine learning apps                                     | https://github.com/gradio-app/gradio            | 33k   |
+
+#### Advanced
+| Tool          | Description                                                                 | URL                                               | Stars |
+|---------------|-----------------------------------------------------------------------------|---------------------------------------------------|-------|
+| BentoML       | Unified model serving framework                                            | https://github.com/bentoml/BentoML              | 7k    |
+| Seldon Core   | Machine learning deployment on Kubernetes                                 | https://github.com/SeldonIO/seldon-core         | 4k    |
+| KServe        | Kubernetes native model serving                                            | https://github.com/kserve/kserve                | 3k    |
+| Triton        | NVIDIA's inference serving software                                        | https://github.com/triton-inference-server/server | 8k   |
+| TorchServe    | Serve PyTorch models at scale                                             | https://github.com/pytorch/serve                | 4k    |
+| FastAPI       | Modern web framework for building APIs                                    | https://github.com/tiangolo/fastapi             | 76k   |
+
+## 🆕 DevOps & Infrastructure
+Tools for managing AI infrastructure and operations.
+
+#### Beginner
+| Tool          | Description                                                                 | URL                                               | Stars |
+|---------------|-----------------------------------------------------------------------------|---------------------------------------------------|-------|
+| Jupyter       | Interactive computing environment                                          | https://github.com/jupyter/jupyter              | 18k   |
+| JupyterLab    | Next-generation web-based UI for Project Jupyter                          | https://github.com/jupyterlab/jupyterlab        | 14k   |
+| VS Code       | Popular code editor with AI extensions                                     | https://github.com/microsoft/vscode             | 163k  |
+
+#### Advanced
+| Tool          | Description                                                                 | URL                                               | Stars |
+|---------------|-----------------------------------------------------------------------------|---------------------------------------------------|-------|
+| Kubernetes    | Container orchestration platform                                          | https://github.com/kubernetes/kubernetes        | 110k  |
+| Terraform     | Infrastructure as code software tool                                      | https://github.com/hashicorp/terraform          | 42k   |
+| Ansible       | Automation platform for configuration management                          | https://github.com/ansible/ansible              | 62k   |
+| Prometheus    | Monitoring system and time series database                                | https://github.com/prometheus/prometheus        | 55k   |
+| Grafana       | Open observability platform                                               | https://github.com/grafana/grafana              | 64k   |
+| Apache Airflow | Platform to programmatically author, schedule, and monitor workflows     | https://github.com/apache/airflow               | 36k   |
 
 ## Datasets
 Top open datasets for AI exploration. Segregated by skill level.
